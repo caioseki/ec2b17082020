@@ -1,0 +1,3 @@
+Vai realizar altenticacao mediante ao usuario ja criado no aplicativo do UBER
+Ira ter uma condicional para chamar o veiculo apenas de o valor for igual ou menor que $10.00
+Deve alocar o veiculo mais proximo

@@ -1,0 +1,3 @@
+Será um software que seria um back engine, que tem como objetivo ser uma extensão do aplicativo já existente do UBER. Ao entre no aplicativo, com seu login já existente será necessário ativar esse extensão em uma aba do App.
+Contudo ao chamar um corrida, a opção apenas estará habilitata se o valor final da corrida atingir um valor igual ou menor a 10 dolares.
+Nossa start up como nova parceira da UBER irá implemente essa extensão com objetivo de atingir um nixo maior de necessidades entre os usuários.
